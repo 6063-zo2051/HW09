@@ -1,6 +1,6 @@
 # HW 09
 
-Apologies that this part of my homework is overdue! I had a hard time with it and wanted to deliver a quality submission.
+Apologies that this part of my homework is overdue! I had a very hard time with it and wanted to deliver the best submission that I could.
 
 ## My Process:
 Initially, I had set out to create a maze that had a popup after you successfully found the exit. I imported a maze image from online and tried to get my ball object to move through it, but this was not working out.
